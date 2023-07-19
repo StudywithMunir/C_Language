@@ -1,0 +1,3 @@
+Hello, i love C programming
+I am going to Read
+munir.text file
